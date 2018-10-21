@@ -1,2 +1,1 @@
-# henryxie1.github.io
-Henry Xie Blogs
+Please refer [Henry Xie Blogs](https://henryxie.net)
