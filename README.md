@@ -1,1 +1,1 @@
-Please refer [Henry Xie Blogs](https://henryxie.net)
+Please refer [Henry Xie Blogs](http://henryxie.net)
